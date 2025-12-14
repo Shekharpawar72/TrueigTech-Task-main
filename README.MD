@@ -129,3 +129,17 @@ TrueigTech-Task-main/
 “For better understanding, please refer to this flowchart image.”
 
 1.  ![imagr alt](https://github.com/Shekharpawar72/TrueigTech-Task-main/blob/9726221de670a14e708f3c697c521a913fc00dce/Backend/WhatsApp%20Image%202025-12-14%20at%2019.47.10_3eadb367.jpg)
+
+
+![image alt]( https://github.com/Shekharpawar72/TrueigTech-Task-main/blob/fbca9d718561dd3b0617a1b8afdb772cc906fed3/Backend/WhatsApp%20Image%202025-12-14%20at%2019.47.29_62e00bf7.jpg)
+
+![iamge alt](
+https://github.com/Shekharpawar72/TrueigTech-Task-main/blob/fbca9d718561dd3b0617a1b8afdb772cc906fed3/Backend/WhatsApp%20Image%202025-12-14%20at%2019.47.29_62e00bf7.jpg)
+
+
+![image alt](https://github.com/Shekharpawar72/TrueigTech-Task-main/blob/fbca9d718561dd3b0617a1b8afdb772cc906fed3/Backend/WhatsApp%20Image%202025-12-14%20at%2019.47.40_d71900ef.jpg
+)
+
+![image alt](
+
+https://github.com/Shekharpawar72/TrueigTech-Task-main/blob/fbca9d718561dd3b0617a1b8afdb772cc906fed3/Backend/WhatsApp%20Image%202025-12-14%20at%2019.47.54_76266e09.jpg )
