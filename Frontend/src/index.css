@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* ✅ Define theme tokens (Tailwind v4 REQUIRED) */
+@theme {
+  --color-primary: #16a34a;
+  --color-secondary: #0f172a;
+}
+
+/* ✅ Components layer for @apply */
+@layer components {
+  .input {
+    @apply w-full p-3 border rounded-lg mb-4
+           focus:outline-none
+           focus:ring-2 focus:ring-primary;
+  }
+
+  .btn {
+    @apply bg-primary text-white py-3 rounded-lg
+           hover:bg-emerald-600 transition;
+  }
+}
